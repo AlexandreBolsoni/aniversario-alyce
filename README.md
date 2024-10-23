@@ -35,7 +35,7 @@ Este é um cartão de aniversário interativo criado para minha prima Alyce util
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/birthday-card.git](https://github.com/AlexandreBolsoni/aniversario-alyce.git)
+   git clone https://github.com/AlexandreBolsoni/aniversario-alyce.git
    ```
 2. Entre no diretório do projeto:
    ```bash
